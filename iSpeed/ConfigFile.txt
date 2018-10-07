@@ -1,0 +1,3 @@
+export HADOOP_HOME=/root/hadoop/hadoop-2.9.0
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export SPARK_HOME=/root/uptic/spark-2.2.1-bin-hadoop2.7
